@@ -1,0 +1,1842 @@
+Converting GML script: ${project_dir}\scripts\sMapCreateInit\sMapCreateInit.gml
+Converted description /// @description sMapCreateInit()
+
+Converting GML script: ${project_dir}\scripts\sMapCreateFinish\sMapCreateFinish.gml
+Converted description /// @description sMapCreateFinish()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeRoomInit\sMapMakeRoomInit.gml
+Converted description /// @description sMapMakeRoomInit()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeRoom\sMapMakeRoom.gml
+Converted description /// @description sMapMakeRoom(makestep)/// @param makestep
+
+Converting GML script: ${project_dir}\scripts\sMapMakeElevatorInterstitial\sMapMakeElevatorInterstitial.gml
+Converted description /// @description sMapMakeElevatorInterstitial(makestep)/// @param makestep
+
+Converting GML script: ${project_dir}\scripts\sMapClearRoom\sMapClearRoom.gml
+Converted description /// @description sMapClearRoom()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeDoors\sMapMakeDoors.gml
+Converted description /// @description sMapMakeDoors()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeInterstitialDoor\sMapMakeInterstitialDoor.gml
+Converted description /// @description sMapMakeInterstitialDoor()
+
+Converting GML script: ${project_dir}\scripts\sMapCellDivide\sMapCellDivide.gml
+Converted description /// @description sMapCellDivide(cell,xory)/// @param cell
+/// @param xory
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceTileIndex\sMapPlaceTileIndex.gml
+Converted description /// @description sMapPlaceTileIndex()
+
+Converting GML script: ${project_dir}\scripts\sMapDrawTestElevGrid\sMapDrawTestElevGrid.gml
+Converted description /// @description sMapDrawTestElevGrid()
+
+Converting GML script: ${project_dir}\scripts\sMapDrawRoomTiles\sMapDrawRoomTiles.gml
+Converted description /// @description sMapDrawRoomTiles()
+
+Converting GML script: ${project_dir}\scripts\sTileFindNeighbors\sTileFindNeighbors.gml
+Converted description /// @description sTileFindNeighbors()
+
+Converting GML script: ${project_dir}\scripts\sTileFindNeighborsNoPits\sTileFindNeighborsNoPits.gml
+Converted description /// @description sTileFindNeighborsNoPits()
+
+Converting GML script: ${project_dir}\scripts\sTileDrawBorders\sTileDrawBorders.gml
+Converted description /// @description sTileDrawBorders()
+
+Converting GML script: ${project_dir}\scripts\sMapCorrectTiles\sMapCorrectTiles.gml
+Converted description /// @description sMapCorrectTiles
+
+Converting GML script: ${project_dir}\scripts\sDoorsEvenElevation\sDoorsEvenElevation.gml
+Converted description /// @description sDoorsEvenElevation()
+
+Converting GML script: ${project_dir}\scripts\sCenterCameraOnMap\sCenterCameraOnMap.gml
+Converted description /// @description sCenterCameraOnMap()
+
+Converting GML script: ${project_dir}\scripts\sMapTileSetStartDepth\sMapTileSetStartDepth.gml
+Converted description /// @description sMapTileSetStartDepth()
+
+Converting GML script: ${project_dir}\scripts\sPlaceElevatorsTemp\sPlaceElevatorsTemp.gml
+Converted description /// @description sMapPlaceElevatorsTemp()
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceElevators\sMapPlaceElevators.gml
+Converted description /// @description sMapPlaceElevators()
+
+Converting GML script: ${project_dir}\scripts\sTileElevatorCheck\sTileElevatorCheck.gml
+Converted description /// @description sTileElevatorCheck(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sTileElevatorChange\sTileElevatorChange.gml
+Converted description /// @description sTileElevatorChange(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sTilePitChange\sTilePitChange.gml
+Converted description /// @description sTilePitChange(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sMapMakePits\sMapMakePits.gml
+Converted description /// @description sMapMakePits()
+
+Converting GML script: ${project_dir}\scripts\sCheckTileElevatorNeighbor\sCheckTileElevatorNeighbor.gml
+Converted description /// @description sCheckTileElevatorNeighbor(vtile,vtop)/// @param vtile
+/// @param vtop
+
+Converting GML script: ${project_dir}\scripts\sMapMakeSaveTileGrid\sMapMakeSaveTileGrid.gml
+Converted description /// @description sMapMakeSaveTileGrid(howmanypaths)/// @param howmanypaths
+
+Converting GML script: ${project_dir}\scripts\sBigWallsMakeWalls\sBigWallsMakeWalls.gml
+Converted description /// @description sBigWallsMakeWalls(vmaxelevation)/// @param vmaxelevation
+
+Converting GML script: ${project_dir}\scripts\sBigWallsDrawWalls\sBigWallsDrawWalls.gml
+Converted description /// @description sBigWallsDrawWalls()
+
+Converting GML script: ${project_dir}\scripts\sMakeTileWalls\sMakeTileWalls.gml
+Converted description /// @description sMakeTileWalls(vmaxelevation)/// @param vmaxelevation
+
+Converting GML script: ${project_dir}\scripts\sDrawTileWalls\sDrawTileWalls.gml
+Converted description /// @description sDrawTileWalls()
+
+Converting GML script: ${project_dir}\scripts\sWallDressingInit\sWallDressingInit.gml
+Converted description /// @description sWallDressingInit()
+
+Converting GML script: ${project_dir}\scripts\sWallDressingConclude\sWallDressingConclude.gml
+Converted description /// @description sWallDressingConclude()
+
+Converting GML script: ${project_dir}\scripts\sWallDressingTileList\sWallDressingTileList.gml
+Converted description /// @description sWallDressingTileList(height,width,mingrounddist,maxgrounddist,minceildist,maxceildist,bigwallchance,tilewallchance,pitchance,southorwest,overobstacles)/// @param height
+/// @param width
+/// @param mingrounddist
+/// @param maxgrounddist
+/// @param minceildist
+/// @param maxceildist
+/// @param bigwallchance
+/// @param tilewallchance
+/// @param pitchance
+/// @param southorwest
+/// @param overobstacles
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetDressingTemplate\sWallDrawSetDressingTemplate.gml
+Converted description /// @description sWallIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sIndustrialWallsSetDressing\sIndustrialWallsSetDressing.gml
+Converted description /// @description sIndustrialWallsSetDressing()
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetIndBreakerBox\sWallDrawSetIndBreakerBox.gml
+Converted description /// @description sWallDrawSetIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetIndSmallPipes\sWallDrawSetIndSmallPipes.gml
+Converted description /// @description sWallIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sDrawIndSmallPipeScript\sDrawIndSmallPipeScript.gml
+Converted description /// @description sDrawIndSmallPipeScript(vgrid,vtile,southorwest,vx,vy)/// @param vgrid
+/// @param vtile
+/// @param southorwest
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetIndSafetyPosters\sWallDrawSetIndSafetyPosters.gml
+Converted description /// @description sWallDrawSetIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetIndBigPipes\sWallDrawSetIndBigPipes.gml
+Converted description /// @description sWallDrawSetIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sParkWallsSetDressing\sParkWallsSetDressing.gml
+Converted description /// @description sParkWallsSetDressing()
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetParkSmallPlanter\sWallDrawSetParkSmallPlanter.gml
+Converted description /// @description sWallDrawSetIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetParkLargePlanter\sWallDrawSetParkLargePlanter.gml
+Converted description /// @description sWallDrawSetIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sWallDrawSetParkPaintBoards\sWallDrawSetParkPaintBoards.gml
+Converted description /// @description sWallDrawSetIndBigPipes()
+
+Converting GML script: ${project_dir}\scripts\sDrawCatwalkWalls\sDrawCatwalkWalls.gml
+Converted description /// @description sDrawTileWalls()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeKeyTileIslands\sMapMakeKeyTileIslands.gml
+Converted description /// @description sMapMakeKeyTileIslands(minsize,maxsize,maxoffset)/// @param minsize
+/// @param maxsize
+/// @param maxoffset
+
+Converting GML script: ${project_dir}\scripts\sMapChangeTileCatwalk\sMapChangeTileCatwalk.gml
+Converted description /// @description sMapChangeTileCatwalk()
+
+Converting GML script: ${project_dir}\scripts\sMapCatwalkFindShadows\sMapCatwalkFindShadows.gml
+Converted description /// @description sMapCatwalkFindShadows()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeWallTileGrid\sMapMakeWallTileGrid.gml
+Converted description /// @description sMapMakeWallTileGrid()
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceObstacles\sMapPlaceObstacles.gml
+Converted description /// @description sMapPlaceObstacles(frequency)/// @param frequency
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceObstaclesOne\sMapPlaceObstaclesOne.gml
+Converted description /// @description sMapPlaceObstacles(frequency)/// @param frequency
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceObstaclesTwo\sMapPlaceObstaclesTwo.gml
+Converted description /// @description sMapPlaceObstacles(frequency)/// @param frequency
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceObstaclesFour\sMapPlaceObstaclesFour.gml
+Converted description /// @description sMapPlaceObstacles(frequency)/// @param frequency
+
+Converting GML script: ${project_dir}\scripts\sMapMakeObstaclesoutdated\sMapMakeObstaclesoutdated.gml
+Converted description /// @description sMapMakeObstacles()
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceDoorTerminals\sMapPlaceDoorTerminals.gml
+Converted description /// @description sMapPlaceDoorTerminals(howmany)/// @param howmany
+
+Converting GML script: ${project_dir}\scripts\sMapDrawDoorTerminals\sMapDrawDoorTerminals.gml
+Converted description /// @description sMapDrawDoorTerminals()
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceVendingMachines\sMapPlaceVendingMachines.gml
+Converted description /// @description sMapPlaceVendingMachineshowmany)
+
+Converting GML script: ${project_dir}\scripts\sMapDrawVendingMachines\sMapDrawVendingMachines.gml
+Converted description /// @description sMapDrawVendingMachines()
+
+Converting GML script: ${project_dir}\scripts\sMapObstacleAddHeight\sMapObstacleAddHeight.gml
+Converted description /// @description sMapObstacleAddHeight()
+
+Converting GML script: ${project_dir}\scripts\sMapFindContinuityStartTile\sMapFindContinuityStartTile.gml
+Converted description /// @description sMapFindContinuityStartTile()
+
+Converting GML script: ${project_dir}\scripts\sMapActivateAIUnitsPlayerAttack\sMapActivateAIUnitsPlayerAttack.gml
+Converted description /// @description sMapActivateAIUnits()
+
+Converting GML script: ${project_dir}\scripts\sMapActivateAIUnitsSight\sMapActivateAIUnitsSight.gml
+Converted description /// @description sMapActivateAIUnits()
+
+Converting GML script: ${project_dir}\scripts\OLDsMapActivateAIUnits\OLDsMapActivateAIUnits.gml
+Converted description /// @description sMapActivateAIUnits()
+
+Converting GML script: ${project_dir}\scripts\sMapFloorDressingInit\sMapFloorDressingInit.gml
+Converted description /// @description sMapFloorDressingInit()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeFloorDressing1\sMapMakeFloorDressing1.gml
+Converted description /// @description sMapMakeFloorDressing1()
+
+Converting GML script: ${project_dir}\scripts\sMapFloorDressingDeInit\sMapFloorDressingDeInit.gml
+Converted description /// @description sMapFloorDressingDeInit()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeElevatorScrollingWalls\sMapMakeElevatorScrollingWalls.gml
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description sMapMakeElevatorScrollingWalls()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeScrollingWall\sMapMakeScrollingWall.gml
+Converted description /// @description sMapMakeScrollingWall(bg,x,y,bgx,bgy,speed,resheight)/// @param bg
+/// @param x
+/// @param y
+/// @param bgx
+/// @param bgy
+/// @param speed
+/// @param resheight
+
+Converting GML script: ${project_dir}\scripts\sMapPlacePlayerUnits\sMapPlacePlayerUnits.gml
+Converted description /// @description sMapPlacePlayerUnits()
+
+Converting GML script: ${project_dir}\scripts\sMapPlaceUnits\sMapPlaceUnits.gml
+Converted description /// @description sMapPlaceUnits()
+
+Converting GML script: ${project_dir}\scripts\sMapCreateAuditor\sMapCreateAuditor.gml
+Converted description /// @description sMapCreateAuditor(tile,attributelist)/// @param tile
+/// @param attributelist
+
+Converting GML script: ${project_dir}\scripts\sMapKOAuditor\sMapKOAuditor.gml
+Converted description /// @description sMapKOAuditor(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sMapReviveAuditor\sMapReviveAuditor.gml
+Converted description /// @description sMapReviveAuditor(unit,healamount)/// @param unit
+/// @param healamount
+
+Converting GML script: ${project_dir}\scripts\sMapMakeAuditorCorpse\sMapMakeAuditorCorpse.gml
+Converted description /// @description sMapMakeAuditorCorpse(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sIsNumberEven\sIsNumberEven.gml
+Converted description /// @description sIsNumberEven(val)/// @param val
+
+Converting GML script: ${project_dir}\scripts\sGetPremadePercent\sGetPremadePercent.gml
+Converted description /// @description sGetPremadePercent()
+
+Converting GML script: ${project_dir}\scripts\sIsTileLocationValid\sIsTileLocationValid.gml
+Converted description /// @description sIsTileLocationValid(x,y)/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\sFindAttackDamage\sFindAttackDamage.gml
+Converted description /// @description sFindAttackDamage(attacker,attackertile,defender)/// @param attacker
+/// @param attackertile
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sFindAttackHitChance\sFindAttackHitChance.gml
+Converted description /// @description sFindAttackHitChance(attacker,attackertile,defender)/// @param attacker
+/// @param attackertile
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sFindAttackCritChance\sFindAttackCritChance.gml
+Converted description /// @description sFindAttackCritChance(attacker,attackertile,defender)/// @param attacker
+/// @param attackertile
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sFindAttackKnockChance\sFindAttackKnockChance.gml
+Converted description /// @description sFindAttackKnockChance(attacker,attackertile,defender)/// @param attacker
+/// @param attackertile
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sIsKnockPossible\sIsKnockPossible.gml
+Converted description /// @description sIsKnockPossible(unit,directiont)/// @param unit
+/// @param directiont
+
+Converting GML script: ${project_dir}\scripts\sIsPushPossible\sIsPushPossible.gml
+Converted description /// @description sIsPushPossible(unit,directiont)/// @param unit
+/// @param directiont
+
+Converting GML script: ${project_dir}\scripts\sMakeKnockRange\sMakeKnockRange.gml
+Converted description /// @description sMakeKnockRange(knockunit,howfar,dir,destroyrange)/// @param knockunit
+/// @param howfar
+/// @param dir
+/// @param destroyrange
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponTypeBonus\sGetWeaponTypeBonus.gml
+Converted description /// @description sGetWeaponTypeBonus(attacker,defender)/// @param attacker
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sGetFacingCombatBonus\sGetFacingCombatBonus.gml
+Converted description /// @description sGetFacingCombatBonus(attacker,defender)/// @param attacker
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sGetXPGainAttack\sGetXPGainAttack.gml
+Converted description /// @description sGetXPGainAttack(attacker,defender,willkill)/// @param attacker
+/// @param defender
+/// @param willkill
+
+Converting GML script: ${project_dir}\scripts\sFindAttackStatusEffects\sFindAttackStatusEffects.gml
+Converted description /// @description sFindAttackStatusEffects(attacker,defender)/// @param attacker
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sFindKnockFallDamage\sFindKnockFallDamage.gml
+Converted description /// @description sFindKnockFallDamage(fallheight,downrange)/// @param fallheight
+/// @param downrange
+
+Converting GML script: ${project_dir}\scripts\sFindKnockDamage\sFindKnockDamage.gml
+Converted description /// @description sFindKnockDamage(attackee,ktile,knockdist)/// @param attackee
+/// @param ktile
+/// @param knockdist
+
+Converting GML script: ${project_dir}\scripts\sMakeAttackStatsList\sMakeAttackStatsList.gml
+Converted description /// @description sMakeAttackStatsList(attacker,defender)/// @param attacker
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sRollHundred\sRollHundred.gml
+Converted description /// @description sRollHundred()
+
+Converting GML script: ${project_dir}\scripts\sGetRelationshipBonus\sGetRelationshipBonus.gml
+Converted description /// @description sGetRelationshipBonus(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sAttackControlInitAttack\sAttackControlInitAttack.gml
+Converted description /// @description sAttackControlInitAttack(special)/// @param special
+
+Converting GML script: ${project_dir}\scripts\sAttackControlAttackAnimStep\sAttackControlAttackAnimStep.gml
+Converted description /// @description sAttackControlAttackAnimStep(special)/// @param special
+
+Converting GML script: ${project_dir}\scripts\sAttackControlAttackHit\sAttackControlAttackHit.gml
+Converted description /// @description sAttackControlAttackHit(attacker,defender,special)/// @param attacker
+/// @param defender
+/// @param special
+
+Converting GML script: ${project_dir}\scripts\sAttackControlInjectUnit\sAttackControlInjectUnit.gml
+Converted description /// @description sAttackControlInjectUnit(unit,injector,position)/// @param unit
+/// @param injector
+/// @param position
+
+Converting GML script: ${project_dir}\scripts\sSpecialAttackStartAttack\sSpecialAttackStartAttack.gml
+Converted description /// @description sSpecialAttackStartAttack(vunit,vtarget,hit,dam,knock,crit,caller,shove)/// @param vunit
+/// @param vtarget
+/// @param hit
+/// @param dam
+/// @param knock
+/// @param crit
+/// @param caller
+/// @param shove
+
+Converting GML script: ${project_dir}\scripts\sRelationshipControlStartStep\sRelationshipControlStartStep.gml
+Converted description /// @description sRelasionshipControlStartStep()
+
+Converting GML script: ${project_dir}\scripts\sRelationshipMakeFriendsList\sRelationshipMakeFriendsList.gml
+Converted description /// @description sRelationshipMakeFriendsList(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sRelationshipControlInit\sRelationshipControlInit.gml
+Converted description /// @description sRelationshipControlInit()
+
+Converting GML script: ${project_dir}\scripts\sFindRelationshipIncreaseAmount\sFindRelationshipIncreaseAmount.gml
+Converted description /// @description sFindRelationshipIncreaseAmount(vnum,unit1,unit2)/// @param vnum
+/// @param unit1
+/// @param unit2
+
+Converting GML script: ${project_dir}\scripts\sGetUnitRelationshipLevel\sGetUnitRelationshipLevel.gml
+Converted description /// @description sGetUnitRelationshipLevel(unit1,unit2,allowbonus)/// @param unit1
+/// @param unit2
+/// @param allowbonus
+
+Converting GML script: ${project_dir}\scripts\sRelationshipAddUnit\sRelationshipAddUnit.gml
+Converted description /// @description sRelationshipAddUnit(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sRelationshipAddProximity\sRelationshipAddProximity.gml
+Converted description /// @description sRelationshipAddProximity(startunit)/// @param startunit
+
+Converting GML script: ${project_dir}\scripts\sClickOnPlayerUnit\sClickOnPlayerUnit.gml
+Converted description /// @description sClickOnPlayerUnit(sunit)/// @param sunit
+
+Converting GML script: ${project_dir}\scripts\sClickOnMoveRange\sClickOnMoveRange.gml
+Converted description /// @description sClickOnMoveRange(stile)/// @param stile
+
+Converting GML script: ${project_dir}\scripts\sPlayerChangePlayer\sPlayerChangePlayer.gml
+Converted builtin - line 30: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sPlayerChangePlayer()
+
+Converting GML script: ${project_dir}\scripts\sFindAttackRange\sFindAttackRange.gml
+Converted description /// @description sFindAttackRange(unit,vtile)/// @param unit
+/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sMakeAttackRange\sMakeAttackRange.gml
+Converted description /// @description sMakeAttackRange(hurtorheal)/// @param hurtorheal
+
+Converting GML script: ${project_dir}\scripts\sCheckLineOfSight\sCheckLineOfSight.gml
+Converted description /// @description sCheckLineOfSight(starttile,endtile,vunit,cunit)/// @param starttile
+/// @param endtile
+/// @param vunit
+/// @param cunit
+
+Converting GML script: ${project_dir}\scripts\sIsTileInAttackRange\sIsTileInAttackRange.gml
+Converted description /// @description sIsTileInAttackRange(tile,unit)/// @param tile
+/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sIsTileInProximity\sIsTileInProximity.gml
+Converted description /// @description sIsTileInProximity(tile,unit,distance)/// @param tile
+/// @param unit
+/// @param distance
+
+Converting GML script: ${project_dir}\scripts\sClickOnAttackable\sClickOnAttackable.gml
+Converted description /// @description sClickOnAttackable(attackingunit,defendingunit)/// @param attackingunit
+/// @param defendingunit
+
+Converting GML script: ${project_dir}\scripts\sUnitFaceUnit\sUnitFaceUnit.gml
+Converted description /// @description sUnitFaceUnit(facer,facewho)/// @param facer
+/// @param facewho
+
+Converting GML script: ${project_dir}\scripts\sTileFaceTile\sTileFaceTile.gml
+Converted description /// @description sTileFaceTile(facetile,facewhotile)/// @param facetile
+/// @param facewhotile
+
+Converting GML script: ${project_dir}\scripts\sDestroyRangeTiles\sDestroyRangeTiles.gml
+Converted description /// @description sDestroyRangeTiles()
+
+Converting GML script: ${project_dir}\scripts\sAddUnitToKnockedList\sAddUnitToKnockedList.gml
+Converted description /// @description sAddUnitToKnockedList(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sUnitKillMidKnock\sUnitKillMidKnock.gml
+Converted description /// @description sUnitKillMidKnock(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sClickOnInventoryItem\sClickOnInventoryItem.gml
+Converted description /// @description sClickOnInventoryItem(button)/// @param button
+
+Converting GML script: ${project_dir}\scripts\sClickOnWeaponItem\sClickOnWeaponItem.gml
+Converted description /// @description sClickOnWeaponItem(button)/// @param button
+
+Converting GML script: ${project_dir}\scripts\sClickOnArmorItem\sClickOnArmorItem.gml
+Converted description /// @description sClickOnArmorItem(button)/// @param button
+
+Converting GML script: ${project_dir}\scripts\sFindAttackChainUnits\sFindAttackChainUnits.gml
+Converted description /// @description sFindAttackChainUnits(chainlength,attacker,defender)/// @param chainlength
+/// @param attacker
+/// @param defender
+
+Converting GML script: ${project_dir}\scripts\sGetUnitListPosition\sGetUnitListPosition.gml
+Converted description /// @description sGetUnitListPosition(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sMakeUnitFacingArrow\sMakeUnitFacingArrow.gml
+Converted description /// @description sMakeUnitFacingArrow(unit,cancancel)/// @param unit
+/// @param cancancel
+
+Converting GML script: ${project_dir}\scripts\sUnitEndTurnAction\sUnitEndTurnAction.gml
+Converted description /// @description sUnitEndTurnAction(unit,dorelationships)/// @param unit
+/// @param dorelationships
+
+Converting GML script: ${project_dir}\scripts\sPickUpGroundItem\sPickUpGroundItem.gml
+Converted description /// @description sPickUpGroundItem()
+
+Converting GML script: ${project_dir}\scripts\sPickUpGroundItemOLD\sPickUpGroundItemOLD.gml
+Converted description /// @description sPickUpGroundItem()
+
+Converting GML script: ${project_dir}\scripts\sFindMoveRange\sFindMoveRange.gml
+Converted description /// @description sFindMoveRange(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sDFindMapContinuity\sDFindMapContinuity.gml
+Converted description /// @description sDFindMapContinuity(starttile)/// @param starttile
+
+Converting GML script: ${project_dir}\scripts\sAFindMapPath\sAFindMapPath.gml
+Converted description /// @description sAFindMapPath(starttile,endtile,changedirectioncost,noise,startdir)/// @param starttile
+/// @param endtile
+/// @param changedirectioncost
+/// @param noise
+/// @param startdir
+
+Converting GML script: ${project_dir}\scripts\sFindItemRange\sFindItemRange.gml
+Converted description /// @description sFindItemRange(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sFindAttackLongRange\sFindAttackLongRange.gml
+Converted description /// @description sFindItemRange(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sTileFindCost\sTileFindCost.gml
+Converted description /// @description sTileFindCost(goingorcoming,prevheight,prevdist,vunit,climbheight,uprangemod,parkour)/// @param goingorcoming
+/// @param prevheight
+/// @param prevdist
+/// @param vunit
+/// @param climbheight
+/// @param uprangemod
+/// @param parkour
+
+Converting GML script: ${project_dir}\scripts\sTileFindCostContinuity\sTileFindCostContinuity.gml
+Converted description /// @description sTileFindCostContinuity(prevdist,prevtile,)/// @param prevdist
+/// @param prevtile
+
+Converting GML script: ${project_dir}\scripts\sTileFindCostAMap\sTileFindCostAMap.gml
+Converted description /// @description sTileFindCostAMap(prevdist,prevtile,currenttile)/// @param prevdist
+/// @param prevtile
+/// @param currenttile
+
+Converting GML script: ${project_dir}\scripts\sTileFindItemCost\sTileFindItemCost.gml
+Converted description /// @description sTileFindItemCost(goingorcoming,prevheight,prevdist,vunit)/// @param goingorcoming
+/// @param prevheight
+/// @param prevdist
+/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sTileGetNeighborList\sTileGetNeighborList.gml
+Converted description /// @description sTileGetNeighborList(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sMapTilesDrawWallsTemp\sMapTilesDrawWallsTemp.gml
+Converted description /// @description sMapTilesDrawWallsTemp()
+
+Converting GML script: ${project_dir}\scripts\sTempPlaceAuditor\sTempPlaceAuditor.gml
+Converted description /// @description sTempPlaceAuditor
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorStand\sDrawAuditorStand.gml
+Converted description /// @description sDrawAuditorStand()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorKO\sDrawAuditorKO.gml
+Converted description /// @description sDrawAuditorKO()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorAttack\sDrawAuditorAttack.gml
+Converted description /// @description sDrawAuditorAttack()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorRecoil\sDrawAuditorRecoil.gml
+Converted description /// @description sDrawAuditorRecoil()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorHold\sDrawAuditorHold.gml
+Converted description /// @description sDrawAuditorHold()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorThrow\sDrawAuditorThrow.gml
+Converted description /// @description sDrawAuditorThrow()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorWeapon\sDrawAuditorWeapon.gml
+Converted description /// @description sDrawAuditorWeapon(x,y,sub)/// @param x
+/// @param y
+/// @param sub
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPickSprites\sDrawAuditorPickSprites.gml
+Converted description /// @description sDrawAuditorPickSprites()
+
+Converting GML script: ${project_dir}\scripts\sAuditorMakePaletteMain\sAuditorMakePaletteMain.gml
+Converted description /// @description sAuditorMakePaletteMain()
+
+Converting GML script: ${project_dir}\scripts\sAuditorMakeColors\sAuditorMakeColors.gml
+Converted description /// @description sAuditorMakeColors()
+
+Converting GML script: ${project_dir}\scripts\sAuditorMakePaletteHair\sAuditorMakePaletteHair.gml
+Converted description /// @description sAuditorMakePaletteHair()
+
+Converting GML script: ${project_dir}\scripts\sAuditorMakePaletteHead\sAuditorMakePaletteHead.gml
+Converted description /// @description sAuditorMakePaletteHead()
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorHead\sDrawAuditorHead.gml
+Converted description /// @description sDrawAuditorHead(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorEar\sDrawAuditorEar.gml
+Converted description /// @description sDrawAuditorEar(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorFrontHand\sDrawAuditorFrontHand.gml
+Converted description /// @description sDrawAuditorFrontHand(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorFrontArm\sDrawAuditorFrontArm.gml
+Converted description /// @description sDrawAuditorFrontArm(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorBackArmBody\sDrawAuditorBackArmBody.gml
+Converted description /// @description sDrawAuditorBackArmBody(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorGlasses\sDrawAuditorGlasses.gml
+Converted description /// @description sDrawAuditorGlasses(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorLowerBody\sDrawAuditorLowerBody.gml
+Converted description /// @description sDrawAuditorLowerBody(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorHair\sDrawAuditorHair.gml
+Converted description /// @description sDrawAuditorHair(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorFacialHair\sDrawAuditorFacialHair.gml
+Converted description /// @description sDrawAuditorFacialHair(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorNoArmBody\sDrawAuditorNoArmBody.gml
+Converted description /// @description sDrawAuditorNoArmBody(mypalette,pindex,vx,vy)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+
+Converting GML script: ${project_dir}\scripts\sAuditorFindHairSprite\sAuditorFindHairSprite.gml
+Converted description /// @description sAuditorFindHairSprite(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortrait\sDrawAuditorPortrait.gml
+Converted description /// @description sDrawAuditorPortrait(vx,vy,vunit,flipped?)/// @param vx
+/// @param vy
+/// @param vunit
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitDead\sDrawAuditorPortraitDead.gml
+Converted description /// @description sDrawAuditorPortraitDead(vx,vy,vunit,flipped?)/// @param vx
+/// @param vy
+/// @param vunit
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitBody\sDrawAuditorPortraitBody.gml
+Converted description /// @description sDrawAuditorPortraitBody(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitGlasses\sDrawAuditorPortraitGlasses.gml
+Converted description /// @description sDrawAuditorPortraitBody(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitHead\sDrawAuditorPortraitHead.gml
+Converted description /// @description sDrawAuditorPortraitHead(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitEyebrows\sDrawAuditorPortraitEyebrows.gml
+Converted description /// @description sDrawAuditorPortraitEyebrows(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitHair\sDrawAuditorPortraitHair.gml
+Converted description /// @description sDrawAuditorPortraitHair(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitFacialHair\sDrawAuditorPortraitFacialHair.gml
+Converted description /// @description sDrawAuditorPortraitFacialHair(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitHairBackground\sDrawAuditorPortraitHairBackground.gml
+Converted description /// @description sDrawAuditorPortraitHairBackground(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitEyes\sDrawAuditorPortraitEyes.gml
+Converted description /// @description sDrawAuditorPortraitEyes(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitXEyes\sDrawAuditorPortraitXEyes.gml
+Converted description /// @description sDrawAuditorPortraitEyes(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitMouth\sDrawAuditorPortraitMouth.gml
+Converted description /// @description sDrawAuditorPortraitMouth(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitNose\sDrawAuditorPortraitNose.gml
+Converted description /// @description sDrawAuditorPortraitNose(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sDrawAuditorPortraitEars\sDrawAuditorPortraitEars.gml
+Converted description /// @description sDrawAuditorPortraitEars(mypalette,pindex,vx,vy,flipped?)/// @param mypalette
+/// @param pindex
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sTileDrawShadow\sTileDrawShadow.gml
+Converted description /// @description sTileDrawShadow()
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitShadowMoving\sDrawUnitShadowMoving.gml
+Converted description /// @description sDrawUnitShadowMoving()
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitShadowHalfass\sDrawUnitShadowHalfass.gml
+Converted description /// @description sDrawUnitShadowHalfass()
+
+Converting GML script: ${project_dir}\scripts\sDrawRobitStand\sDrawRobitStand.gml
+Converted description /// @description sDrawAuditorStand()
+
+Converting GML script: ${project_dir}\scripts\sDrawRobitAttack\sDrawRobitAttack.gml
+Converted description /// @description sDrawRobitAttack()
+
+Converting GML script: ${project_dir}\scripts\sDrawRobitRecoil\sDrawRobitRecoil.gml
+Converted description /// @description sDrawRobitRecoil()
+
+Converting GML script: ${project_dir}\scripts\sDrawRobitHold\sDrawRobitHold.gml
+Converted description /// @description sDrawRobitHold()
+
+Converting GML script: ${project_dir}\scripts\sDrawRobitWeapon\sDrawRobitWeapon.gml
+Converted description /// @description sDrawRobitWeapon(x,y,sub,scol)/// @param x
+/// @param y
+/// @param sub
+/// @param scol
+
+Converting GML script: ${project_dir}\scripts\sDrawRobitHand\sDrawRobitHand.gml
+Converted description /// @description sDrawRobitHand(x,y,sub,scol)/// @param x
+/// @param y
+/// @param sub
+/// @param scol
+
+Converting GML script: ${project_dir}\scripts\sDrawSkullsplodeRecoil\sDrawSkullsplodeRecoil.gml
+Converted description /// @description sDrawRobitRecoil()
+
+Converting GML script: ${project_dir}\scripts\sDrawSkullsplodeAttack\sDrawSkullsplodeAttack.gml
+Converted description /// @description sDrawSkullsplodeAttack()
+
+Converting GML script: ${project_dir}\scripts\sDrawOsculaStand\sDrawOsculaStand.gml
+Converted description /// @description sDrawOsculaStand()
+
+Converting GML script: ${project_dir}\scripts\sDrawOsculaAttack\sDrawOsculaAttack.gml
+Converted description /// @description sDrawOsculaAttack()
+
+Converting GML script: ${project_dir}\scripts\sDrawOsculaRecoil\sDrawOsculaRecoil.gml
+Converted description /// @description sDrawOsculaRecoil()
+
+Converting GML script: ${project_dir}\scripts\sCameraMoveTarget\sCameraMoveTarget.gml
+Converted description /// @description sCameraMoveTarget(targetobject,xborder,yborder,speed)/// @param targetobject
+/// @param xborder
+/// @param yborder
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\sCameraMoveXY\sCameraMoveXY.gml
+Converted description /// @description sCameraMoveXY(vx,vy,xborder,yborder,speed)/// @param vx
+/// @param vy
+/// @param xborder
+/// @param yborder
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\sCameraChangeResolution\sCameraChangeResolution.gml
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 48: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview[0] = vwidth -> __view_set( e__VW.WView, 0, vwidth )
+Converted builtin - line 35: view_wview[0] = wsize -> __view_set( e__VW.WView, 0, wsize )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 48: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview[0] = vheight -> __view_set( e__VW.HView, 0, vheight )
+Converted builtin - line 36: view_hview[0] = hsize -> __view_set( e__VW.HView, 0, hsize )
+Converted builtin - line 50: view_visible[0] = 1 -> __view_set( e__VW.Visible, 0, 1 )
+Converted description /// @description sCameraChangeResolution(w,h,fullscreen?)/// @param w
+/// @param h
+/// @param fullscreen?
+
+Converting GML script: ${project_dir}\scripts\sTileDrawMovePath\sTileDrawMovePath.gml
+Converted description /// @description sTileDrawMovePath()
+
+Converting GML script: ${project_dir}\scripts\sTileFindMovePathDraw\sTileFindMovePathDraw.gml
+Converted description /// @description sTileFindMovePathDraw(tile)/// @param tile
+
+Converting GML script: ${project_dir}\scripts\sDrawNomodAttack\sDrawNomodAttack.gml
+Converted description /// @description sDrawNomodAttack()
+
+Converting GML script: ${project_dir}\scripts\sDrawNomodRecoil\sDrawNomodRecoil.gml
+Converted description /// @description sDrawNomodRecoil()
+
+Converting GML script: ${project_dir}\scripts\sDrawNomodStand\sDrawNomodStand.gml
+Converted description /// @description sDrawNomodStand()
+
+Converting GML script: ${project_dir}\scripts\sUnitDrawStatus\sUnitDrawStatus.gml
+Converted description /// @description sUnitDrawStatus(vunit,status,turns)/// @param vunit
+/// @param status
+/// @param turns
+
+Converting GML script: ${project_dir}\scripts\sDrawLightCircle\sDrawLightCircle.gml
+Converted description /// @description sDrawLightCircle(x,y,alpha,color)/// @param x
+/// @param y
+/// @param alpha
+/// @param color
+
+Converting GML script: ${project_dir}\scripts\sMakeLightCirclePoints\sMakeLightCirclePoints.gml
+Converted description /// @description sMakeLightCirclePoints(pureradius,faderadius,)/// @param pureradius
+/// @param faderadius
+
+Converting GML script: ${project_dir}\scripts\sDrawLightCircle_OLD\sDrawLightCircle_OLD.gml
+Converted description /// @description sDrawLightCircle(x,y,pureradius,faderadius,alpha,color)/// @param x
+/// @param y
+/// @param pureradius
+/// @param faderadius
+/// @param alpha
+/// @param color
+
+Converting GML script: ${project_dir}\scripts\sStartGNoise\sStartGNoise.gml
+Converted description /// @description sStartGNoise(width,height,shapedensity,scale,iterations,fcol,bcol)/// @param width
+/// @param height
+/// @param shapedensity
+/// @param scale
+/// @param iterations
+/// @param fcol
+/// @param bcol
+
+Converting GML script: ${project_dir}\scripts\sGNoiseDraw\sGNoiseDraw.gml
+Converted description /// @description sGNoiseDraw()
+
+Converting GML script: ${project_dir}\scripts\sGNoiseChangeShape\sGNoiseChangeShape.gml
+Converted description /// @description sGNoiseChangeShape(vx,vy,width,height,pos)/// @param vx
+/// @param vy
+/// @param width
+/// @param height
+/// @param pos
+
+Converting GML script: ${project_dir}\scripts\sUnitMakeLightSource\sUnitMakeLightSource.gml
+Converted description /// @description sUnitMakeLightSource(unit,pureradius,fullradius)/// @param unit
+/// @param pureradius
+/// @param fullradius
+
+Converting GML script: ${project_dir}\scripts\sTitleGetGrid\sTitleGetGrid.gml
+Converted description /// @description sTitleGetGrid()
+
+Converting GML script: ${project_dir}\scripts\sGetTextAuditorFontWidth\sGetTextAuditorFontWidth.gml
+Converted description /// @description sGetTextAuditorFontWidth(tring)/// @param tring
+
+Converting GML script: ${project_dir}\scripts\sGetTextPixelFontWidth\sGetTextPixelFontWidth.gml
+Converted description /// @description sGetTextPixelFontWidth(tring)/// @param tring
+
+Converting GML script: ${project_dir}\scripts\sGetTextPixelFontHeight\sGetTextPixelFontHeight.gml
+Converted description /// @description sGetTextPixelFontHeight(tring,separation,width)/// @param tring
+/// @param separation
+/// @param width
+
+Converting GML script: ${project_dir}\scripts\sDrawTextAuditorFontWidth\sDrawTextAuditorFontWidth.gml
+Converted description /// @description sDrawTextAuditorFontWidth(x,y,outlinecolor,maincolor,string,width)/// @param x
+/// @param y
+/// @param outlinecolor
+/// @param maincolor
+/// @param string
+/// @param width
+
+Converting GML script: ${project_dir}\scripts\sDrawTextAuditorMidFontWidth\sDrawTextAuditorMidFontWidth.gml
+Converted description /// @description sDrawTextAuditorFontWidth(x,y,outlinecolor,maincolor,string,width)/// @param x
+/// @param y
+/// @param outlinecolor
+/// @param maincolor
+/// @param string
+/// @param width
+
+Converting GML script: ${project_dir}\scripts\sDrawTextAuditorFont\sDrawTextAuditorFont.gml
+Converted description /// @description sDrawTextAuditorFont(x,y,outlinecolor,maincolor,string)/// @param x
+/// @param y
+/// @param outlinecolor
+/// @param maincolor
+/// @param string
+
+Converting GML script: ${project_dir}\scripts\sDrawTextAuditorMidFont\sDrawTextAuditorMidFont.gml
+Converted description /// @description sDrawTextAuditorMidFont(x,y,outlinecolor,maincolor,string)/// @param x
+/// @param y
+/// @param outlinecolor
+/// @param maincolor
+/// @param string
+
+Converting GML script: ${project_dir}\scripts\sDrawTextPixelFontWidth\sDrawTextPixelFontWidth.gml
+Converted description /// @description sDrawTextPixelFontWidth(x,y,maincolor,string,width)/// @param x
+/// @param y
+/// @param maincolor
+/// @param string
+/// @param width
+
+Converting GML script: ${project_dir}\scripts\sDrawTextPixelFont\sDrawTextPixelFont.gml
+Converted description /// @description sDrawTextPixelFont(x,y,maincolor,string)/// @param x
+/// @param y
+/// @param maincolor
+/// @param string
+
+Converting GML script: ${project_dir}\scripts\sDrawTooltip\sDrawTooltip.gml
+Converted description /// @description sDrawTooltip(x,y,string,width,border,color,sep)/// @param x
+/// @param y
+/// @param string
+/// @param width
+/// @param border
+/// @param color
+/// @param sep
+
+Converting GML script: ${project_dir}\scripts\sDoTooltip\sDoTooltip.gml
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 29: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 29: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description sDoTooltip(x,y,string,width,border,color,sep)/// @param x
+/// @param y
+/// @param string
+/// @param width
+/// @param border
+/// @param color
+/// @param sep
+
+Converting GML script: ${project_dir}\scripts\sDrawMoneyCard\sDrawMoneyCard.gml
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description sDrawMoneyCard(ymod)/// @param ymod
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitPortrait\sDrawUnitPortrait.gml
+Converted description /// @description sDrawUnitPortrait(vunit,vx,vy,flipped?)/// @param vunit
+/// @param vx
+/// @param vy
+/// @param flipped?
+
+Converting GML script: ${project_dir}\scripts\sAnimHumanWalkNESW\sAnimHumanWalkNESW.gml
+Converted description /// @description sAnimMoveNESW(animstep)/// @param animstep
+
+Converting GML script: ${project_dir}\scripts\sAnimHumanBounce\sAnimHumanBounce.gml
+Converted description /// @description sAnimMoveNESW(animstep)/// @param animstep
+
+Converting GML script: ${project_dir}\scripts\sAnimWalk\sAnimWalk.gml
+Converted description /// @description sAnimWalk(walkstep)/// @param walkstep
+
+Converting GML script: ${project_dir}\scripts\sUnitSetShudder\sUnitSetShudder.gml
+Converted description /// @description sUnitSetShudder(vunit,shuddercount)/// @param vunit
+/// @param shuddercount
+
+Converting GML script: ${project_dir}\scripts\sUnitSetJump\sUnitSetJump.gml
+Converted description /// @description sUnitSetJump(vunit,jumpcount)/// @param vunit
+/// @param jumpcount
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitAttackHP\sDrawUnitAttackHP.gml
+Converted description /// @description sDrawUnitAttackHP(vunit,damage)/// @param vunit
+/// @param damage
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitHealHP\sDrawUnitHealHP.gml
+Converted description /// @description sDrawUnitHealHP(vunit,healamount)/// @param vunit
+/// @param healamount
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveTilesDefault\sUnitMoveTilesDefault.gml
+Converted description /// @description sUnitMoveTiles()
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveKnockTilesDefault\sUnitMoveKnockTilesDefault.gml
+Converted description /// @description sUnitMoveTiles()
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveBounceTilesDefault\sUnitMoveBounceTilesDefault.gml
+Converted description /// @description sUnitMoveTiles()
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveFallDefault\sUnitMoveFallDefault.gml
+Converted description /// @description sUnitMoveFallDefault()
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveFallPit\sUnitMoveFallPit.gml
+Converted description /// @description sUnitMoveFallDefault()
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveClimbDefault\sUnitMoveClimbDefault.gml
+Converted description /// @description sUnitMoveClimbDefault()
+
+Converting GML script: ${project_dir}\scripts\sUnitKnockReverseDirection\sUnitKnockReverseDirection.gml
+Converted description /// @description sUnitKnockReverseDirection()
+
+Converting GML script: ${project_dir}\scripts\sUnitMoveFindNextBounceTile\sUnitMoveFindNextBounceTile.gml
+Converted description /// @description sUnitMoveFindNextBounceTile()
+
+Converting GML script: ${project_dir}\scripts\sAttackUnitStartKnock\sAttackUnitStartKnock.gml
+Converted description /// @description sAttackUnitStartKnock(knocked,knocker)/// @param knocked
+/// @param knocker
+
+Converting GML script: ${project_dir}\scripts\sUnitKnockIntoUnit\sUnitKnockIntoUnit.gml
+Converted description /// @description sUnitKnockIntoUnit(knocker,knocked,explosionknockdir)/// @param knocker
+/// @param knocked
+/// @param explosionknockdir
+
+Converting GML script: ${project_dir}\scripts\sStartElevatorAnimation\sStartElevatorAnimation.gml
+Converted description /// @description sStartElevatorAnimation()
+
+Converting GML script: ${project_dir}\scripts\sTramAnimate\sTramAnimate.gml
+Converted description /// @description sTramAnimate(inorout)/// @param inorout
+
+Converting GML script: ${project_dir}\scripts\sInterTramAnimate\sInterTramAnimate.gml
+Converted description /// @description sInterTramAnimate(inorout)/// @param inorout
+
+Converting GML script: ${project_dir}\scripts\sAttackMakeParticle\sAttackMakeParticle.gml
+Converted description /// @description sAttackMakeParticle(vattacker,vdefender)/// @param vattacker
+/// @param vdefender
+
+Converting GML script: ${project_dir}\scripts\sMakeInterfaceParticle\sMakeInterfaceParticle.gml
+Converted description /// @description sMakeInterfaceParticle(startx,starty,destx,desty,particle,depth,speed)/// @param startx
+/// @param starty
+/// @param destx
+/// @param desty
+/// @param particle
+/// @param depth
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\sAttackMakeHitParticle\sAttackMakeHitParticle.gml
+Converted description /// @description sAttackMakeHitParticle(vattacker,vdefender)/// @param vattacker
+/// @param vdefender
+
+Converting GML script: ${project_dir}\scripts\sDrawAbilityUsed\sDrawAbilityUsed.gml
+Converted description /// @description sDrawAbilityUsed(abilitynum,x,y)/// @param abilitynum
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\sUnitMakeDebris\sUnitMakeDebris.gml
+Converted description /// @description sUnitMakeDebris(unittype)/// @param unittype
+
+Converting GML script: ${project_dir}\scripts\wrap\wrap.gml
+Converted description /// @description wrap(value,min,max)/// @param value
+/// @param min
+/// @param max
+
+Converting GML script: ${project_dir}\scripts\pal_swap_draw_palette\pal_swap_draw_palette.gml
+Converted description /// @description pal_swap_draw_palette(palette_sprite,pal_index,x,y);/// @param palette_sprite
+/// @param pal_index
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\pal_swap_enable_override\pal_swap_enable_override.gml
+Converted description /// @description pal_swap_enable_override(pal sprite)/// @param pal sprite
+
+Converting GML script: ${project_dir}\scripts\pal_swap_get_color_count\pal_swap_get_color_count.gml
+Converted description /// @description pal_swap_get_color_count(palette sprite)/// @param palette sprite
+
+Converting GML script: ${project_dir}\scripts\pal_swap_get_pal_color\pal_swap_get_pal_color.gml
+Converted description /// @description pal_swap_get_pal_color(palette sprite,pal index, color index)/// @param palette sprite
+/// @param pal index
+/// @param  color index
+
+Converting GML script: ${project_dir}\scripts\pal_swap_get_pal_count\pal_swap_get_pal_count.gml
+Converted description /// @description pal_swap_get_pal_count(palette sprite)/// @param palette sprite
+
+Converting GML script: ${project_dir}\scripts\pal_swap_index_palette\pal_swap_index_palette.gml
+Converted description /// @description pal_swap_index_palette(palette sprite index)/// @param palette sprite index
+
+Converting GML script: ${project_dir}\scripts\pal_swap_init_system\pal_swap_init_system.gml
+Converted description /// @description pal_swap_init_system(shader,enable indexing <optional>)/// @param shader
+/// @param enable indexing <optional>
+Converted string - line 12: 'texel_size' -> "texel_size"
+Converted string - line 13: 'palette_UVs' -> "palette_UVs"
+Converted string - line 14: 'palette_index' -> "palette_index"
+Converted string - line 15: 'palette_texture' -> "palette_texture"
+
+Converting GML script: ${project_dir}\scripts\pal_swap_reset\pal_swap_reset.gml
+Converted description /// @description pal_swap_reset();
+
+Converting GML script: ${project_dir}\scripts\pal_swap_set\pal_swap_set.gml
+Converted description /// @description pal_swap_set(palette_sprite_index, palette_index,palette is surface);/// @param palette_sprite_index
+/// @param  palette_index
+/// @param palette is surface
+
+Converting GML script: ${project_dir}\scripts\pal_swap_set_tiles\pal_swap_set_tiles.gml
+Converted description /// @description pal_swap_set_tiles(palette sprite or surface, pal index, start layer, end layer, pal is surface);/// @param palette sprite or surface
+/// @param  pal index
+/// @param  start layer
+/// @param  end layer
+/// @param  pal is surface
+
+Converting GML script: ${project_dir}\scripts\sMakeAuditorAttributeList\sMakeAuditorAttributeList.gml
+Converted description /// @description sMakeAuditorAttributeList()
+
+Converting GML script: ${project_dir}\scripts\sMakeAuditorNameList\sMakeAuditorNameList.gml
+Converted description /// @description sMakeAuditorNameList()
+
+Converting GML script: ${project_dir}\scripts\sAuditorListVerifyOrder\sAuditorListVerifyOrder.gml
+Converted description /// @description sAuditorListVerifyOrder()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeEnemyAttributes\sMapMakeEnemyAttributes.gml
+Converted description /// @description sMapMakeEnemyAttributes()
+
+Converting GML script: ${project_dir}\scripts\sMapMakeEnemyAttributesOLD\sMapMakeEnemyAttributesOLD.gml
+Converted description /// @description sMapMakeEnemyAttributes()
+
+Converting GML script: ${project_dir}\scripts\sMakePossibleEnemiesListTemp\sMakePossibleEnemiesListTemp.gml
+Converted description /// @description sMakePossibleEnemiesListTemp(enemytypelist)/// @param enemytypelist
+
+Converting GML script: ${project_dir}\scripts\sPickEnemy\sPickEnemy.gml
+Converted description /// @description sPickEnemy(typenum)/// @param typenum
+
+Converting GML script: ${project_dir}\scripts\sGetEnemyDifficulty\sGetEnemyDifficulty.gml
+Converted description /// @description sGetEnemyDifficulty(typenum)/// @param typenum
+
+Converting GML script: ${project_dir}\scripts\sEnemyGetAttributes\sEnemyGetAttributes.gml
+Converted description /// @description sEnemyGetAttributes(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sDebugClickMakeEnemy\sDebugClickMakeEnemy.gml
+Converted description /// @description sDebugClickMakeEnemy(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sDebugClickMakeBarrel\sDebugClickMakeBarrel.gml
+Converted description /// @description sDebugClickMakeBarrel(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sMakeUnitInMap\sMakeUnitInMap.gml
+Converted description /// @description sMakeUnitInMap(instance,tile,levelup)/// @param instance
+/// @param tile
+/// @param levelup
+
+Converting GML script: ${project_dir}\scripts\sEnemyGetStartStatus\sEnemyGetStartStatus.gml
+Converted description /// @description sEnemyGetStartStatus(vtype)/// @param vtype
+
+Converting GML script: ${project_dir}\scripts\sUnitGetMoveSoundType\sUnitGetMoveSoundType.gml
+Converted description /// @description sUnitGetMoveSoundType(unittype)/// @param unittype
+
+Converting GML script: ${project_dir}\scripts\sEnemyAttributeListMaintBot\sEnemyAttributeListMaintBot.gml
+Converted description /// @description sMakeEnemyAttributeListKBot()
+
+Converting GML script: ${project_dir}\scripts\sUnitMakeAttributeList\sUnitMakeAttributeList.gml
+Converted description /// @description sUnitMakeAttributeList()
+
+Converting GML script: ${project_dir}\scripts\sUnitDestroyDefault\sUnitDestroyDefault.gml
+Converted description /// @description sUnitDestroyDefault(destroydata)/// @param destroydata
+
+Converting GML script: ${project_dir}\scripts\sUnitDestroyNemesis\sUnitDestroyNemesis.gml
+Converted description /// @description sUnitDestroyDefault(destroydata)/// @param destroydata
+
+Converting GML script: ${project_dir}\scripts\sUnitDestroyAuditor\sUnitDestroyAuditor.gml
+Converted description /// @description sUnitDestroyAuditor(destroyinfo)/// @param destroyinfo
+
+Converting GML script: ${project_dir}\scripts\sUnitDestroy\sUnitDestroy.gml
+Converted description /// @description sUnitDestroy(destroydata)/// @param destroydata
+
+Converting GML script: ${project_dir}\scripts\sUnitDestroyAllUnits\sUnitDestroyAllUnits.gml
+Converted description /// @description sUnitDestroyAllUnits()
+
+Converting GML script: ${project_dir}\scripts\sUnitPickDestructionScript\sUnitPickDestructionScript.gml
+Converted description /// @description sUnitPickDestructionScript(objindex,destroydata)/// @param objindex
+/// @param destroydata
+
+Converting GML script: ${project_dir}\scripts\sUnitDestroyExplosion\sUnitDestroyExplosion.gml
+Converted description /// @description sUnitDestroyExplosion()
+
+Converting GML script: ${project_dir}\scripts\sUnitInitAll\sUnitInitAll.gml
+Converted description /// @description sUnitInitAll
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponStats\sGetWeaponStats.gml
+Converted description /// @description sGetWeaponStats(weaponnum)/// @param weaponnum
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponHitParticle\sGetWeaponHitParticle.gml
+Converted description /// @description sGetWeaponHitParticle(weaponnum)/// @param weaponnum
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponLaunchParticle\sGetWeaponLaunchParticle.gml
+Converted description /// @description sGetWeaponLaunceParticle(weaponnum)/// @param weaponnum
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponParticle\sGetWeaponParticle.gml
+Converted description /// @description sGetWeaponParticle(weaponnum)/// @param weaponnum
+
+Converting GML script: ${project_dir}\scripts\sGetArmorStats\sGetArmorStats.gml
+Converted description /// @description sGetArmorStats(armornum)/// @param armornum
+
+Converting GML script: ${project_dir}\scripts\sNoWeaponStats\sNoWeaponStats.gml
+Converted description /// @description sNoWeaponStats
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponStatusChance\sGetWeaponStatusChance.gml
+Converted description /// @description sGetWeaponStatusChance(weapon,status)/// @param weapon
+/// @param status
+
+Converting GML script: ${project_dir}\scripts\sGetWeaponStatusTurns\sGetWeaponStatusTurns.gml
+Converted description /// @description sGetWeaponStatusTurns(weapon,status)/// @param weapon
+/// @param status
+
+Converting GML script: ${project_dir}\scripts\sTwoByFourStats\sTwoByFourStats.gml
+Converted description /// @description sTwoByFourStats()
+
+Converting GML script: ${project_dir}\scripts\sRotarySawStats\sRotarySawStats.gml
+Converted description /// @description sGoatHornStats()
+
+Converting GML script: ${project_dir}\scripts\sCrowbarStats\sCrowbarStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sGoatHornStats\sGoatHornStats.gml
+Converted description /// @description sGoatHornStats()
+
+Converting GML script: ${project_dir}\scripts\sNailGunStats\sNailGunStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sSmallRevolverStats\sSmallRevolverStats.gml
+Converted description /// @description sSmallRevolverStats()
+
+Converting GML script: ${project_dir}\scripts\sFireAxeStats\sFireAxeStats.gml
+Converted description /// @description sFireAxeStats()
+
+Converting GML script: ${project_dir}\scripts\sWeldGunStats\sWeldGunStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sPlasmaRifleStats\sPlasmaRifleStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sStunPistolStats\sStunPistolStats.gml
+Converted description /// @description sStunPistolStats()
+
+Converting GML script: ${project_dir}\scripts\sElectroGoatHornStats\sElectroGoatHornStats.gml
+Converted description /// @description sGoatHornStats()
+
+Converting GML script: ${project_dir}\scripts\sSparkChargerStats\sSparkChargerStats.gml
+Converted description /// @description sSparkChargerStats()
+
+Converting GML script: ${project_dir}\scripts\sShockProdStats\sShockProdStats.gml
+Converted description /// @description sShockProdStats()
+
+Converting GML script: ${project_dir}\scripts\sLaserSawStats\sLaserSawStats.gml
+Converted description /// @description sShockProdStats()
+
+Converting GML script: ${project_dir}\scripts\sLiveWiresStats\sLiveWiresStats.gml
+Converted description /// @description sLiveWiresStats()
+
+Converting GML script: ${project_dir}\scripts\sVolatileMixStats\sVolatileMixStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sOsculaWeaponStats\sOsculaWeaponStats.gml
+Converted description /// @description sCursebarStats()
+
+Converting GML script: ${project_dir}\scripts\sDevilGoatHornStats\sDevilGoatHornStats.gml
+Converted description /// @description sDevilGoatHornStats()
+
+Converting GML script: ${project_dir}\scripts\sCursebarStats\sCursebarStats.gml
+Converted description /// @description sCursebarStats()
+
+Converting GML script: ${project_dir}\scripts\sTentacleWeaponStats\sTentacleWeaponStats.gml
+Converted description /// @description sTentacleWeaponStats()
+
+Converting GML script: ${project_dir}\scripts\sRitualKnifeStats\sRitualKnifeStats.gml
+Converted description /// @description sRitualKnifeStats()
+
+Converting GML script: ${project_dir}\scripts\sResinChunkStats\sResinChunkStats.gml
+Converted description /// @description sResinChunkStats()
+
+Converting GML script: ${project_dir}\scripts\sCursedCutterStats\sCursedCutterStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sYoricksMawStats\sYoricksMawStats.gml
+Converted description /// @description sCrowbarStats()
+
+Converting GML script: ${project_dir}\scripts\sHealRayStats\sHealRayStats.gml
+Converted description /// @description sHealRayStats()
+
+Converting GML script: ${project_dir}\scripts\sAIMakeDMapLoop\sAIMakeDMapLoop.gml
+Converted description /// @description sAIMakeDMapLoop()
+
+Converting GML script: ${project_dir}\scripts\sAIUnitDefaultBehavior\sAIUnitDefaultBehavior.gml
+Converted description /// @description sAIUnitDefaultBehavior(unit,tilelist)/// @param unit
+/// @param tilelist
+
+Converting GML script: ${project_dir}\scripts\sAIUnitObstacleBehavior\sAIUnitObstacleBehavior.gml
+Converted description /// @description sAIUnitObstacleBehavior(unit,tilelist)/// @param unit
+/// @param tilelist
+
+Converting GML script: ${project_dir}\scripts\sAIUnitKnockBehavior\sAIUnitKnockBehavior.gml
+Converted description /// @description sAIUnitKnockBehavior(unit,tilelist)/// @param unit
+/// @param tilelist
+
+Converting GML script: ${project_dir}\scripts\sAIUnitExplodeStatusBehavior\sAIUnitExplodeStatusBehavior.gml
+Converted description /// @description sAIUnitExplodeStatusBehavior(unit,tilelist)/// @param unit
+/// @param tilelist
+
+Converting GML script: ${project_dir}\scripts\sAIModifyAttackScore\sAIModifyAttackScore.gml
+Converted description /// @description sAIModifyAttackScore(vunit,vscore)/// @param vunit
+/// @param vscore
+
+Converting GML script: ${project_dir}\scripts\sAITileCheckLoop\sAITileCheckLoop.gml
+Converted description /// @description sAITileCheckLoop()
+
+Converting GML script: ${project_dir}\scripts\sAIPickUnitBehavior\sAIPickUnitBehavior.gml
+Converted description /// @description sAIPickUnitBehavior(unit,tilelist)/// @param unit
+/// @param tilelist
+
+Converting GML script: ${project_dir}\scripts\sAIMoveBestUnit\sAIMoveBestUnit.gml
+Converted description /// @description sAIMoveBestUnit()
+
+Converting GML script: ${project_dir}\scripts\sActivateAIUnitsLoop\sActivateAIUnitsLoop.gml
+Converted description /// @description sMapActivateAIUnits()
+
+Converting GML script: ${project_dir}\scripts\sAIMakeBarrelScores\sAIMakeBarrelScores.gml
+Converted description /// @description sAIMakeBarrelScores()
+
+Converting GML script: ${project_dir}\scripts\sAICheckBarrelScores\sAICheckBarrelScores.gml
+Converted description /// @description sAICheckBarrelScores(exploder,vlist,ktile)/// @param exploder
+/// @param vlist
+/// @param ktile
+
+Converting GML script: ${project_dir}\scripts\sAICheckAdjacentTilesObstacles\sAICheckAdjacentTilesObstacles.gml
+Converted description /// @description sAICheckAdjacentTilesObstacles(vtile,vgrid)/// @param vtile
+/// @param vgrid
+
+Converting GML script: ${project_dir}\scripts\sMakeButtons\sMakeButtons.gml
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sMakeButtons(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sMakeInventoryButtons\sMakeInventoryButtons.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sMakeInventoryButtons(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sMakeInventoryButtonsOLD\sMakeInventoryButtonsOLD.gml
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sMakeInventoryButtons(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sMakeAttackInventoryButtons\sMakeAttackInventoryButtons.gml
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description sMakeAttackInventoryButtons()
+
+Converting GML script: ${project_dir}\scripts\sMakeAttackInventoryButtonsOLD\sMakeAttackInventoryButtonsOLD.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 74: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 74: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description sMakeAttackInventoryButtons()
+
+Converting GML script: ${project_dir}\scripts\sGetDisplayDamage\sGetDisplayDamage.gml
+Converted description /// @description sGetDisplayAttack(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sUnitGainXP\sUnitGainXP.gml
+Converted description /// @description sUnitGainXP(amount,giver)/// @param amount
+/// @param giver
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitWindow\sDrawUnitWindow.gml
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 89: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 31: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 90: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sDrawUnitWindow(dx,dy)/// @param dx
+/// @param dy
+
+Converting GML script: ${project_dir}\scripts\sDrawUnitWindowOLD\sDrawUnitWindowOLD.gml
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sDrawUnitWindow(dx,dy)/// @param dx
+/// @param dy
+
+Converting GML script: ${project_dir}\scripts\sDrawEnemyUnitWindow\sDrawEnemyUnitWindow.gml
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sDrawEnemyUnitWindow(dx,dy,aunit)/// @param dx
+/// @param dy
+/// @param aunit
+
+Converting GML script: ${project_dir}\scripts\sGetTileUnderCursor\sGetTileUnderCursor.gml
+Converted description /// @description sGetTileUnderCursor()
+
+Converting GML script: ${project_dir}\scripts\sTileCursorSetPosition\sTileCursorSetPosition.gml
+Converted description /// @description sTileCursorSetPosition(vtile)/// @param vtile
+
+Converting GML script: ${project_dir}\scripts\sMakeGenericInfoWindow\sMakeGenericInfoWindow.gml
+Converted description /// @description sMakeGenericInfoWindow(target,parent,vstring)/// @param target
+/// @param parent
+/// @param vstring
+
+Converting GML script: ${project_dir}\scripts\sUnitCheckClimbCancel\sUnitCheckClimbCancel.gml
+Converted description /// @description sUnitCheckClimbCancel(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sGetItemScript\sGetItemScript.gml
+Converted description /// @description sGetItemScript(weaponnum)/// @param weaponnum
+
+Converting GML script: ${project_dir}\scripts\sGetItemInfo\sGetItemInfo.gml
+Converted description /// @description sGetItemInfo(itemnum,1string 2sprite 3objind 4category 5uses 6durability 7price)/// @param itemnum
+/// @param 1string 2sprite 3objind 4category 5uses 6durability 7price
+
+Converting GML script: ${project_dir}\scripts\sGetItemDescription\sGetItemDescription.gml
+Converted description /// @description sGetItemDescription(itemnum)/// @param itemnum
+
+Converting GML script: ${project_dir}\scripts\sItemMakeThrowPath\sItemMakeThrowPath.gml
+Converted description /// @description sItemMakeThrowPath(startx,starty,endx,endy)/// @param startx
+/// @param starty
+/// @param endx
+/// @param endy
+
+Converting GML script: ${project_dir}\scripts\sMedKitScript\sMedKitScript.gml
+Converted description /// @description sMedKitScript()
+
+Converting GML script: ${project_dir}\scripts\sGrenadeScript\sGrenadeScript.gml
+Converted description /// @description sGrenadeScript()
+
+Converting GML script: ${project_dir}\scripts\sRedChestPickItem\sRedChestPickItem.gml
+Converted description /// @description sRedChestPickItem()
+
+Converting GML script: ${project_dir}\scripts\sContainerAddItemChance\sContainerAddItemChance.gml
+Converted description /// @description sContainerAddItemChance(list,item,howmany)/// @param list
+/// @param item
+/// @param howmany
+
+Converting GML script: ${project_dir}\scripts\sGetItemStringOUTDATED\sGetItemStringOUTDATED.gml
+Converted description /// @description sGetItemScript(weaponnum)/// @param weaponnum
+
+Converting GML script: ${project_dir}\scripts\sPickArmorSpriteoutdated\sPickArmorSpriteoutdated.gml
+Converted description /// @description sPickArmorSprite(myarmor)/// @param myarmor
+
+Converting GML script: ${project_dir}\scripts\sPickItemSpriteOUTDATED\sPickItemSpriteOUTDATED.gml
+Converted description /// @description sPickItemSprite(myitem)/// @param myitem
+
+Converting GML script: ${project_dir}\scripts\sPickWeaponSpriteoutdated\sPickWeaponSpriteoutdated.gml
+Converted description /// @description sPickWeaponSprite(myweapon)/// @param myweapon
+
+Converting GML script: ${project_dir}\scripts\sGetItemObjectIndexOUTDATED\sGetItemObjectIndexOUTDATED.gml
+Converted description /// @description sGetItemObjectIndex(itemnum)/// @param itemnum
+
+Converting GML script: ${project_dir}\scripts\sGetItemConsumableOrTrapOUTDATED\sGetItemConsumableOrTrapOUTDATED.gml
+Converted description /// @description sGetItemConsumableOrTrap(itemnum)/// @param itemnum
+
+Converting GML script: ${project_dir}\scripts\sRemoveItemFromInventory\sRemoveItemFromInventory.gml
+Converted description /// @description sRemoveItemFromInventory(vunit,itemlistpos)/// @param vunit
+/// @param itemlistpos
+
+Converting GML script: ${project_dir}\scripts\sAddItemToInventory\sAddItemToInventory.gml
+Converted description /// @description sAddItemToInventory(vunit,itemdata)/// @param vunit
+/// @param itemdata
+
+Converting GML script: ${project_dir}\scripts\sUnitAnimTakeItem\sUnitAnimTakeItem.gml
+Converted description /// @description sUnitAnimTakeItem(unit,itemtype)/// @param unit
+/// @param itemtype
+
+Converting GML script: ${project_dir}\scripts\sForceDiscardItem\sForceDiscardItem.gml
+Converted description /// @description sForceDiscardItem(unit,inventorypos or -1/-2 for weapon/armor,tile)/// @param unit
+/// @param inventorypos or -1/-2 for weapon/armor
+/// @param tile
+
+Converting GML script: ${project_dir}\scripts\sMakeUnitMapItem\sMakeUnitMapItem.gml
+Converted description /// @description sMakeUnitMapItem(vunit,item number,targetunit)/// @param vunit
+/// @param item number
+/// @param targetunit
+
+Converting GML script: ${project_dir}\scripts\sMakeItemData\sMakeItemData.gml
+Converted description /// @description sMakeItemData(itemnum,uses)/// @param itemnum
+/// @param uses
+
+Converting GML script: ${project_dir}\scripts\sClearMapItemList\sClearMapItemList.gml
+Converted description /// @description sClearMapItemList()
+
+Converting GML script: ${project_dir}\scripts\sClearUnitInventoryList\sClearUnitInventoryList.gml
+Converted description /// @description sClearUnitInventoryList(vlist)/// @param vlist
+
+Converting GML script: ${project_dir}\scripts\sDestroyHeldItem\sDestroyHeldItem.gml
+Converted description /// @description sDestroyHeldItem(vunit,itemdata,0weapon 1armor 2 inventory)/// @param vunit
+/// @param itemdata
+/// @param 0weapon 1armor 2 inventory
+
+Converting GML script: ${project_dir}\scripts\sVendorMakeInventoryList\sVendorMakeInventoryList.gml
+Converted description /// @description sVendorMakeInventoryList(levelnum,type)/// @param levelnum
+/// @param type
+
+Converting GML script: ${project_dir}\scripts\sUnitMakeAbilitiesListInit\sUnitMakeAbilitiesListInit.gml
+Converted description /// @description sUnitMakeAbilitiesListInit()
+
+Converting GML script: ${project_dir}\scripts\sUnitAbilitiesCooldown\sUnitAbilitiesCooldown.gml
+Converted description /// @description sUnitAbilitiesCooldown()
+
+Converting GML script: ${project_dir}\scripts\sUnitResetUsedAbilities\sUnitResetUsedAbilities.gml
+Converted description /// @description sUnitResetUsedAbilities()
+
+Converting GML script: ${project_dir}\scripts\sAuditorInitAbilitiesList\sAuditorInitAbilitiesList.gml
+Converted description /// @description sAuditorInitAbilitiesList(list)/// @param list
+
+Converting GML script: ${project_dir}\scripts\sAbilityFindIcon\sAbilityFindIcon.gml
+Converted description /// @description sAbilityFindIcon(abilitynum)/// @param abilitynum
+
+Converting GML script: ${project_dir}\scripts\sAbilityFindTooltip\sAbilityFindTooltip.gml
+Converted description /// @description sAbilityFindTooltip(abilitynum)/// @param abilitynum
+
+Converting GML script: ${project_dir}\scripts\sAbilityFindNameString\sAbilityFindNameString.gml
+Converted description /// @description sAbilityFindNameString(abilitynum)/// @param abilitynum
+
+Converting GML script: ${project_dir}\scripts\sMakeAbilityIcons\sMakeAbilityIcons.gml
+Converted description /// @description sMakeAbilityIcons(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sUnitLearnAbility\sUnitLearnAbility.gml
+Converted description /// @description sUnitLearnAbility(vunit,abilitynum)/// @param vunit
+/// @param abilitynum
+
+Converting GML script: ${project_dir}\scripts\sUnitLearnAbilityList\sUnitLearnAbilityList.gml
+Converted description /// @description sUnitLearnAbilityList(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sUnitLearnAbilityListDebug\sUnitLearnAbilityListDebug.gml
+Converted description /// @description sUnitLearnAbilityListDebug(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sAbilitiesUsedRoomStart\sAbilitiesUsedRoomStart.gml
+Converted description /// @description sAbilitiesUsedRoomStart(vunit)/// @param vunit
+
+Converting GML script: ${project_dir}\scripts\sUnitCooldownAbility\sUnitCooldownAbility.gml
+Converted description /// @description sUnitCooldownAbility(abilitynum)/// @param abilitynum
+
+Converting GML script: ${project_dir}\scripts\sTrickShotMakeAttack\sTrickShotMakeAttack.gml
+Converted description /// @description sTrickShotMakeAttack(unit)/// @param unit
+
+Converting GML script: ${project_dir}\scripts\sAbilityReboundCheck\sAbilityReboundCheck.gml
+Converted description /// @description sAbilityReboundCheck(caller)/// @param caller
+
+Converting GML script: ${project_dir}\scripts\sAbilityCliffHanger\sAbilityCliffHanger.gml
+Converted description /// @description sAbilityCliffHanger()
+
+Converting GML script: ${project_dir}\scripts\sGetSoundSquishMove\sGetSoundSquishMove.gml
+Converted description /// @description sMakeSoundSquishMove()
+
+Converting GML script: ${project_dir}\scripts\sInitSurfaceVariables\sInitSurfaceVariables.gml
+Converted description /// @description sInitSurfaceVariables
+
+Converting GML script: ${project_dir}\scripts\sSoundPlayEffect\sSoundPlayEffect.gml
+Converted description /// @description sSoundPlayEffect(sound,volume,loop?,allowduplicates)/// @param sound
+/// @param volume
+/// @param loop?
+/// @param allowduplicates
+
+Converting GML script: ${project_dir}\scripts\sSoundPlayMusic\sSoundPlayMusic.gml
+Converted description /// @description sSoundPlayMusic(sound,volume,fadeintime,loop)/// @param sound
+/// @param volume
+/// @param fadeintime
+/// @param loop
+
+Converting GML script: ${project_dir}\scripts\sSoundStopMusic\sSoundStopMusic.gml
+Converted description /// @description sSoundStopMusic(sound,fade time milliseconds)/// @param sound
+/// @param fade time milliseconds
+
+Converting GML script: ${project_dir}\scripts\sPauseGame\sPauseGame.gml
+Converted description /// @description sPauseGame()
+
+Converting GML script: ${project_dir}\scripts\sMakeMainMenuTop\sMakeMainMenuTop.gml
+Converted description /// @description sMakeMainMenuTop()
+
+Converting GML script: ${project_dir}\scripts\sMakeSettingsMenuSound\sMakeSettingsMenuSound.gml
+Converted description /// @description sMakeSettingsMenuSound()
+
+Converting GML script: ${project_dir}\scripts\sMenuGetRoomCoordinates\sMenuGetRoomCoordinates.gml
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description sMenuGetRoomCoordinates(xoff,yoff)/// @param xoff
+/// @param yoff
+
+!!! Font fontAuditorShadow uses a font (AuditorShadow) not installed on this system - Font has NOT been regenerated
+Font fontminfont has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font2 has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+!!! Font fontAuditorShadowMain uses a font (AuditorShadowMai) not installed on this system - Font has NOT been regenerated
+!!! Font fontSmallPixel uses a font (AuditorSmallPixe) not installed on this system - Font has NOT been regenerated
+!!! Font fontAuditorMidBody uses a font (AuditorMidPixelB) not installed on this system - Font has NOT been regenerated
+!!! Font fontAuditorMidOutline uses a font (AuditorsMidPixel) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\oGameStartControl\Create_0.gml
+Converted builtin - line 24: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 25: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oGameControl\Create_0.gml
+ERROR: C:\Users\matth\Documents\GameMakerStudio2\AstralTaxAuditors33 gm2\objects\oGameControl\Create_0.gml - 3: missing variable name in globalvar
+Too many errors - GML not processed : ${project_dir}\objects\oGameControl\Create_0.gml
+
+Converting GML script: ${project_dir}\objects\oGameControl\Draw_73.gml
+Converted string - line 20: "gif\*.png" -> "gif\\*.png"
+Converted string - line 33: "gif\" -> "gif\\"
+
+Converting GML script: ${project_dir}\objects\oStartMenuControl\Create_0.gml
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oCamera\Create_0.gml
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] = gdisplaywidth -> __view_set( e__VW.WView, 0, gdisplaywidth )
+Converted builtin - line 27: view_wview[0] = wsize -> __view_set( e__VW.WView, 0, wsize )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] = gdisplayheight -> __view_set( e__VW.HView, 0, gdisplayheight )
+Converted builtin - line 28: view_hview[0] = hsize -> __view_set( e__VW.HView, 0, hsize )
+
+Converting GML script: ${project_dir}\objects\oCamera\Step_2.gml
+Converted builtin - line 55: view_xview[0] = x-round(halfvieww/viewdiv -> __view_set( e__VW.XView, 0, x-round(halfvieww/viewdiv )
+Converted builtin - line 56: view_yview[0] = y-round(halfviewh/viewdiv -> __view_set( e__VW.YView, 0, y-round(halfviewh/viewdiv )
+
+Converting GML script: ${project_dir}\objects\oCamera\Draw_72.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 4: view_surface_id[0] = tsurface -> __view_set( e__VW.SurfaceID, 0, tsurface )
+
+Converting GML script: ${project_dir}\objects\oCamera\Draw_64.gml
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 29: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 50: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 29: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 50: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 35: "gif\*.png" -> "gif\\*.png"
+Converted string - line 48: "gif\" -> "gif\\"
+
+Converting GML script: ${project_dir}\objects\oIntControl\Step_0.gml
+Converted builtin - line 72: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oNemesisControl\Step_0.gml
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oTramInterstitialAnimControl\Other_10.gml
+Converted builtin - line 23: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oLightingControl\Draw_0.gml
+Converted builtin - line 91: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 116: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 93: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 116: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oIMouseControl\Step_1.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oUnitWindow\Step_2.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oAttackWindow\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oAttackWindow\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oContainerWindow\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oContainerWindow\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oVendorWindow\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oVendorWindow\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oLevelUpWindow\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oLevelUpWindow\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oLearnAbilityWindow\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oLearnAbilityWindow\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oRelationshipUpWindow\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oRelationshipUpWindow\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oTramInterstitialInfoWindow\Other_10.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\oUnitFacingArrowWindow\Step_2.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oUnitFacingArrowWindow\Other_10.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oGenericInfoWindow\Step_2.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oGenericInfoWindow\Other_10.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oAbilityIcon\Other_10.gml
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 23: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oMenuParent\Create_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oTurnIndicator\Step_0.gml
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oScrollingWall\Step_0.gml
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\oChildOfNoiseTitle\Create_0.gml
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oChildOfNoiseTitleSave\Create_0.gml
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oChildOfNoiseTitleSave\Draw_0.gml
+Converted builtin - line 57: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 57: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oDrawMainMenu\Create_0.gml
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\oDrawMainMenu\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'soundSawRev1' - setting to default audio group
+Missing audiogroup for sound: 'soundSawRev2' - setting to default audio group
+Missing audiogroup for sound: 'soundHit1' - setting to default audio group
+Missing audiogroup for sound: 'soundWindupSwing1' - setting to default audio group
+Missing audiogroup for sound: 'soundSwing1' - setting to default audio group
+Missing audiogroup for sound: 'soundExplosion1' - setting to default audio group
+Missing audiogroup for sound: 'soundBubbles1' - setting to default audio group
+Missing audiogroup for sound: 'soundBubbles2' - setting to default audio group
+Missing audiogroup for sound: 'soundPlasmaCharge1' - setting to default audio group
+Missing audiogroup for sound: 'soundPlasmaBlast1' - setting to default audio group
+Missing audiogroup for sound: 'soundCompressedAirBlast1' - setting to default audio group
+Missing audiogroup for sound: 'soundCompressedAirCharge1' - setting to default audio group
+Missing audiogroup for sound: 'soundSpookyCharge1' - setting to default audio group
+Missing audiogroup for sound: 'soundSpookyShot1' - setting to default audio group
+Missing audiogroup for sound: 'soundTazerCharge1' - setting to default audio group
+Missing audiogroup for sound: 'soundTazerDischarge1' - setting to default audio group
+Missing audiogroup for sound: 'soundSquishMove1' - setting to default audio group
+Missing audiogroup for sound: 'soundSquishMove2' - setting to default audio group
+Missing audiogroup for sound: 'soundSquishMove3' - setting to default audio group
+Missing audiogroup for sound: 'soundSquishMove4' - setting to default audio group
+Missing audiogroup for sound: 'soundSquishMoveLong1' - setting to default audio group
+Missing audiogroup for sound: 'soundStepMove1' - setting to default audio group
+Missing audiogroup for sound: 'soundStompMove1' - setting to default audio group
+Missing audiogroup for sound: 'soundHoverMove1' - setting to default audio group
+Missing audiogroup for sound: 'soundRoboMove1' - setting to default audio group
+Missing audiogroup for sound: 'soundBite1' - setting to default audio group
+Missing audiogroup for sound: 'soundChirpUp1' - setting to default audio group
+Missing audiogroup for sound: 'soundChirpDown1' - setting to default audio group
+Missing audiogroup for sound: 'soundTazerDischarge2' - setting to default audio group
+Missing audiogroup for sound: 'soundElevatorMusic1' - setting to default audio group
+Missing audiogroup for sound: 'soundFallPit1' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'background/draw_background_part.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'draw/draw_set_blend_mode_ext.gml'
+Added compatibility script 'draw/draw_set_color_write_enable.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'texture/texture_set_interpolation_ext.gml'
+Added compatibility script 'tile/tile_add.gml'
+Added compatibility script 'tile/tile_layer_delete.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

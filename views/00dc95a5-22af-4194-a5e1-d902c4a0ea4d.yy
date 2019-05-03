@@ -1,0 +1,32 @@
+{
+    "id": "00dc95a5-22af-4194-a5e1-d902c4a0ea4d",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "00dc95a5-22af-4194-a5e1-d902c4a0ea4d",
+    "children": [
+        "dec8ceaf-0426-49bb-a52c-d80e311141cd",
+        "1b02fef8-cea1-4f75-8faa-e92a0fcad06f",
+        "73e15983-74e5-4013-9812-809d6c54475f",
+        "9a5cdcb1-4095-4c89-bd75-e106f0758e9e",
+        "eeb2194e-6243-4deb-9a4a-9b8164e15da0",
+        "bcb55992-63c4-41dc-97c4-010a242b81a6",
+        "161b7384-1255-4f7c-872a-5e46dbc609a6",
+        "72f859e6-e7ac-4896-bad8-b43350635863",
+        "110ae8a1-1595-4c76-bc57-31fa97269a88",
+        "f37d7b6a-bdce-45f2-89f9-770f2ce9faab",
+        "9acdfc10-af66-4c07-96e7-161b093fe484",
+        "95364cad-3138-414b-8193-722eb69ff88b",
+        "89923e02-6097-40e1-a560-351830bbbf68",
+        "92b1a83c-6d36-48c2-96cd-c7d726201a3c",
+        "ff76519d-3db1-4241-a7b3-fb8770c888f0",
+        "9ebb1ba7-4c3d-4e98-ae09-1ec3cab09b26",
+        "27585d3d-9337-4571-869a-f20fbad25e2c",
+        "f7f29a02-ea60-4158-ae74-da2ab12e8db7",
+        "bd07573c-3d13-43c3-9bf5-ace2b44b945e",
+        "a34d88c5-1824-4ce1-a6b0-3f39f7f1c7a4"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "weapons",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

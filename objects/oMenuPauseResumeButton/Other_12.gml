@@ -1,0 +1,2 @@
+mystring = "Resume Game"
+

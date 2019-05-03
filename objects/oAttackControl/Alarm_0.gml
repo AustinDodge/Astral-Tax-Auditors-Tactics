@@ -1,0 +1,2 @@
+attackstep = 0
+

@@ -1,0 +1,3 @@
+//sMakeSettingsMenuSound()
+sPauseGame(2)
+

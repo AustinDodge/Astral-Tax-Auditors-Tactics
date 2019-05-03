@@ -1,0 +1,32 @@
+{
+    "id": "62de006f-f94c-4dd5-8a40-ed3b349bfa3a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "62de006f-f94c-4dd5-8a40-ed3b349bfa3a",
+    "children": [
+        "38b13c98-116a-49ca-a485-cb41bd5fa75b",
+        "93d92626-92c2-4a70-b2cd-ea942b6d5f16",
+        "ed1f54d6-259b-421d-9e4e-bce4fd686706",
+        "8d89b14d-5183-4a8b-a201-c8b0dab2048f",
+        "3b08c5a5-1d8f-4c01-8760-35b3b2a8c17c",
+        "f9936da7-7148-49c4-91ef-153b88c79e2f",
+        "c2519113-33c3-4e59-a56f-bc8e25095ada",
+        "8d6c8232-d754-4eb0-afab-921e67870379",
+        "4b43bac0-8834-4b48-83df-cab65c7962df",
+        "3b926cdb-9915-4709-bcbb-1eaecd80a7ec",
+        "fa5f97a7-ab7d-4a15-a698-f125fbd775de",
+        "20c19b14-40d6-4aca-adaf-da542d05212f",
+        "47a202d1-84a4-4adf-b938-7c5e632599f0",
+        "1817e0b3-4c0f-4a44-97df-a55b437ce8ba",
+        "d6a425df-8a22-4a87-b20c-b2d9ec14d213",
+        "fbe96c54-f7ee-4bd1-b0ac-a7b3410ed20b",
+        "8c8deb8b-e7c9-4bd4-a1f9-793328d96897",
+        "1130bc21-1725-4b2c-b862-9243dbc6a9ca",
+        "30b48049-eb73-41a4-8072-f2e93667da19",
+        "7f55a385-61ed-473b-9819-3dfbcda382df"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "rooms",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

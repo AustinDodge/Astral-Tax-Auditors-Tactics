@@ -1,0 +1,2 @@
+mystring = "Quit Game"
+

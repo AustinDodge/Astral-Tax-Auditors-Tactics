@@ -1,0 +1,2 @@
+takescreenshot = 1
+
