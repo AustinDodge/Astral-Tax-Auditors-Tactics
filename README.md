@@ -12,4 +12,4 @@ Use the arrow keys to move the view around.
 
 If you can't click on something near the bottom of the screen, use the arrow keys to center the view over it. Currently the detection for interacting with GUI or game elements is very simple, and if the mouse is too low in the screen it'll assume you're trying to click a button.
 
-Expect bugs.
+The executable in folder atat35 is the most stable current version of the game, but there is a definite chance of bugs.
