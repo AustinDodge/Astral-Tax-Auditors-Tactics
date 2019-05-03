@@ -4,7 +4,7 @@ Astral Tax Auditors Tactics is a rogueish turn-based tactical RPG about a team o
 
 It is not complete - it could be described as pre-alpha.
 
-Here's a brief and hastily made pictoral manual that describes the basics of play: https://imgur.com/a/gCalAiB
+Here's a brief and hastily made pictoral manual that describes the basics of play: https://imgur.com/a/ljK05kO
 
 Even briefer, left-click the suited humans to select them, right-click one of the blue squares that pop up to move to it, and if a monster has red arrows around it, right-click it to attack. Press "return" to watch the enemy monsters do their thing. Press backspace to completely restart everything.
 Use the arrow keys to move the view around.
